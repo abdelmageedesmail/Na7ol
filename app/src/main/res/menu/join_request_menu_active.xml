@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tvCancel"
+        android:icon="@drawable/remove"
+        android:title="@string/cancelJoinRequests" />
+    <item
+        android:id="@+id/tvChat"
+        android:icon="@drawable/ic_chat_icon"
+        android:title="@string/sendMessage" />
+    <item
+        android:id="@+id/tvPayment"
+        android:icon="@drawable/ic_chat_icon"
+        android:title="@string/payment" />
+
+</menu>

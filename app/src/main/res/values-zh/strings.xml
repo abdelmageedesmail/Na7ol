@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="trips">行程</string>
+    <string name="orders">订单</string>
+    <string name="notifications">通知</string>
+    <string name="chats">聊天</string>
+    <string name="login">登录</string>
+    <string name="welcome">欢迎</string>
+    <string name="train">火车</string>
+    <string name="cars">汽车</string>
+    <string name="Plan">飞机</string>
+    <string name="forignTrips">国际航班</string>
+    <string name="domisticFlight">国内航班</string>
+    <string name="addTrip">添加行程</string>
+    <string name="addShipment">添加货物</string>
+    <string name="chooseFlightMethod">选择航班模式</string>
+    <string name="alert">警告</string>
+    <string name="completeData">请完善数据</string>
+    <string name="completeProcedures">完成流程</string>
+    <string name="departure_point">离开点</string>
+    <string name="arrivalPoint">ن到达点</string>
+    <string name="departure_date">离开日期</string>
+    <string name="departure_time">离开时间</string>
+    <string name="arrival_date">到达日期</string>
+    <string name="arrival_time">到达时间</string>
+    <string name="kiloGram">千克</string>
+    <string name="notes">备注</string>
+    <string name="createTrip">创建行程</string>
+    <string name="shipmentType">货物类型</string>
+    <string name="document">文件</string>
+    <string name="packagee">包裹</string>
+    <string name="specified">注明</string>
+    <string name="shipmentWeight">运输重量</string>
+    <string name="deliveryTime">发送时间</string>
+    <string name="shipmentImage">货物图片</string>
+    <string name="recipientData">收件人数据</string>
+    <string name="recipientName">收件人姓名</string>
+    <string name="recipientMobile">收件人手机</string>
+    <string name="createOrder">创建订单</string>
+    <string name="addOffer">إ添加报价</string>
+    <string name="requiredPrice">需求价格</string>
+    <string name="sendOffer">发送报价</string>
+    <string name="joinTrip">加入行程</string>
+    <string name="fullName">全名</string>
+    <string name="email">电子邮件</string>
+    <string name="phone">电话号码</string>
+    <string name="password">密码</string>
+    <string name="confirmPassword">确认密码</string>
+    <string name="register">注册</string>
+    <string name="empty">空</string>
+    <string name="passwordNotMAtches">密码不符</string>
+    <string name="userCreatedSuccessfully">成功创建用户</string>
+    <string name="createAccount">创建帐号</string>
+    <string name="forgetPassword">忘记密码</string>
+    <string name="errorInEmailOrPass">邮件地址或密码错误</string>
+    <string name="tripIsAdded">成功添加行程</string>
+    <string name="selectPackageType">选择包裹类型</string>
+    <string name="orderAddedSuccessfully">成功添加包裹</string>
+    <string name="joinAsCarrier">承运商加入</string>
+    <string name="editImage">编辑图片</string>
+    <string name="nationalId">ID/IQAMA号码</string>
+    <string name="city">城市</string>
+    <string name="join">加入</string>
+    <string name="pleaseAddImage">请添加图片</string>
+    <string name="youJoinedAsTransporter">成功加入承运商</string>
+    <string name="Trip_type">行程类型</string>
+    <string name="joinedSuccess">已收到您的请求，如果接受作为代理人，将通知您</string>
+    <string name="errorPleaseTryAgain">错误 请重试</string>
+    <string name="hour">小时</string>
+    <string name="meetingPoint">集会点</string>
+    <string name="myOrders">我的订单</string>
+    <string name="pending">待处理</string>
+    <string name="Active">激活</string>
+    <string name="Finished">完成</string>
+    <string name="myTrips">我的行程</string>
+    <string name="settings">设置</string>
+    <string name="language">语言</string>
+    <string name="aboutNa7ol">关于NA7OOL</string>
+    <string name="terms">条款</string>
+    <string name="tech">技术支持</string>
+    <string name="message">信息</string>
+    <string name="send">发送</string>
+    <string name="messageSent">信息已发送，将尽快回复您</string>
+    <string name="errorUrl">URL错误</string>
+    <string name="notificationSettings">ا通知设置</string>
+    <string name="personalProfile">个人信息</string>
+    <string name="editPass">更换密码</string>
+    <string name="passwordChangedSuccessfully">已成功更换密码</string>
+    <string name="contract">合同</string>
+    <string name="addShipmentCode">添加运输编码</string>
+    <string name="enterCode">编码错误</string>
+    <string name="Copy_the_delivery_code">复制发货编码</string>
+    <string name="newNotifications">新通知</string>
+    <string name="Deliverymechanism">运输机制</string>
+    <string name="pleaseSelectPackageType">请选择包装类型</string>
+    <string name="travellerName">旅行者姓名</string>
+    <string name="Conductivity_value">运输价格</string>
+    <string name="cancelOrder">取消订单</string>
+    <string name="editOrder">编辑订单</string>
+    <string name="priceOffers">提供价格</string>
+    <string name="sendMessage">发送信息</string>
+    <string name="contractTerms">合同条款</string>
+    <string name="rateTraveller">评价旅客</string>
+    <string name="priceOfferAccepted">报价已接受</string>
+    <string name="attachImage">添加图片</string>
+    <string name="camera">相机</string>
+    <string name="gallery">图库</string>
+    <string name="loading">加载</string>
+    <string name="messageHere">在此输入信息</string>
+    <string name="acceptTerms">接受条款</string>
+    <string name="contin">继续</string>
+    <string name="importantCou">重要提醒</string>
+    <string name="isuuingContract">下发合同</string>
+    <string name="contractText">合同文本</string>
+    <string name="contractSentSuccessfully">已成功发送合同</string>
+    <string name="editTrip">编辑行程</string>
+    <string name="joinRequests">加入请求</string>
+    <string name="ClientData">客户信息</string>
+    <string name="youAcceptToDeliver">您接受发送</string>
+    <string name="shipmentEdited">货物已成功编辑</string>
+    <string name="cancelJoinRequests">取消加入请求</string>
+    <string name="editJoinRequest">编辑加入请求</string>
+    <string name="youCanceledTripSuccessfully">行程已成功取消</string>
+    <string name="writeComment">评论</string>
+    <string name="rateUser">评价用户</string>
+    <string name="thanks">谢谢</string>
+    <string name="deliverShipment">发送货物</string>
+    <string name="cancelTrip">取消行程</string>
+    <string name="travellerRating">评价旅客</string>
+    <string name="confirm">确认</string>
+    <string name="chooseLanguage">ا选择语言</string>
+    <string name="attachment">附件</string>
+    <string name="search">搜索</string>
+    <string name="searchFilter">搜索过滤</string>
+    <string name="logout">退出</string>
+    <string name="charge">剩余</string>
+    <string name="totalCharge">合计剩余</string>
+    <string name="applicationComm">申请人佣金</string>
+    <string name="remainingBalance">ا余额</string>
+    <string name="Balancewithdrawal">提取余额</string>
+    <string name="pay">支付佣金</string>
+    <string name="invalidEmail">无效邮件</string>
+    <string name="phoneError">手机号码错误</string>
+    <string name="pleaseSelctTravelType">请选择运输模式</string>
+    <string name="flightMethod">航班模式</string>
+    <string name="downloadOurApp">下载申请表6</string>
+    <string name="editShipment">编辑货物</string>
+    <string name="edit">编辑</string>
+    <string name="tripsEdited">行程编辑成功</string>
+    <string name="rate">评价</string>
+    <string name="errorCode">错误模式</string>
+    <string name="passwordReset">密码已成功重置</string>
+    <string name="enterPhone">输入手机号码重置密码</string>
+    <string name="sendCode">发送验证码</string>
+    <string name="enterPhoneCode">验证码已通过短信发送到您手机</string>
+    <string name="recoverPassword">重置密码</string>
+    <string name="enterNewPass">输入新密码</string>
+    <string name="newPassword">新密码</string>
+    <string name="confirmNewPassword">确认新密码</string>
+    <string name="joinedSuccessToOrder">加入申请已成功发送，我们将通知您</string>
+    <string name="yourPriceSent">您的报价已成功发送，等待客户确认</string>
+    <string name="pleaseEnterDate">离开日期不能晚于到达日期</string>
+    <string name="save">保存</string>
+    <string name="profileUpdatedSuccessfully">简介已更新</string>
+    <string name="orderSent">已成功发送订单</string>
+    <string name="dataWillBeReviewed">将回查数据，我们将通知您动态</string>
+    <string name="editPrice">编辑价格</string>
+    <string name="bidUpdated">已成功更新报价</string>
+    <string name="enterValidIdentityId">输入有效的ID号码</string>
+    <string name="youShouldAddShipmentImage">添加货运图片</string>
+    <string name="NotificationIsUpdated">更改密码</string>
+    <string name="identityImage">إID上传</string>
+    <string name="pleaseSelectDifferentCities">请选择另一个城市</string>
+    <string name="youMustJoinAsCarrier">您必须作为承运方加入</string>
+    <string name="codeCopiedSuccessfully">代码已成功复制</string>
+    <string name="youCannotJoinToyourTrip">您不能申请加入您的行程 </string>
+    <string name="youCannotAddOfferTo">您不能为自己的订单添加报价</string>
+    <string name="enterCorrectCode">输入正确代码</string>
+    <string name="messageText">输入信息</string>
+    <string name="offerMustBeGreaterThanLimit">报价必须高于最低值</string>
+    <string name="done">完成</string>
+    <string name="day">天</string>
+    <string name="acceptThisOrder">接受此订单？</string>
+    <string name="accept">接受</string>
+    <string name="cancel">取消</string>
+    <string name="pleaseAcceptTerms">请接受条款</string>
+    <string name="price">价格</string>
+    <string name="joinRequestsCanceled">加入请求已取消</string>
+    <string name="all">全部</string>
+    <string name="passwordMustBeGreaterThan">密码必须为六位数字</string>
+    <string name="tripCanceledSuccessfully">航班已成功取消</string>
+    <string name="startWith">（以966開頭）</string>
+    <string name="passwordMustHaveUpperCase">Passwor must have uppercase letter</string>
+    <string name="passwordMustHaveLowerCase">Password must have lower case letter</string>
+    <string name="priceMustBeLessThanFourDigit">Price must be less than 4 digit</string>
+    <string name="lastName">Last name</string>
+    <string name="firstName">First name</string>
+    <string name="resendCode">Resend code</string>
+    <string name="SetLocation">Set location</string>
+    <string name="payment">Payment</string>
+    <string name="orderPrice">"Order delivery price "</string>
+    <string name="enterCardDetails">Enter card details</string>
+    <string name="transfer">Transfer</string>
+    <string name="youMustSelectPaymentMeth">يجب اختيار طريقة الدفع</string>
+    <string name="transferSent">Transfer sent successfully</string>
+
+    <array name="menuDrawer">
+        <item>個人簡介</item>
+        <item>以承運人身份加入</item>
+        <item>添加航班或貨運</item>
+        <item>我的要求</item>
+        <item>餘額</item>
+        <item>設定值</item>
+        <item>快訊</item>
+        <item>分享應用</item>
+    </array>
+    <array name="menuDrawerTrans">
+        <item>個人簡介</item>
+        <item>添加航班或貨運</item>
+        <item>我的旅行</item>
+        <item>我的要求</item>
+        <item>餘額</item>
+        <item>設定值</item>
+        <item>快訊</item>
+        <item>分享應用</item>
+    </array>
+
+    <array name="tripType">
+        <item>國內航班</item>
+        <item>國外旅行</item>
+    </array>
+</resources>

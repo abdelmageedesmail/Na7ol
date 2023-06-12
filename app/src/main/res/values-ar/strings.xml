@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="trips">الرحلات</string>
+    <string name="orders">الطلبات</string>
+    <string name="notifications">التنبيهات</string>
+    <string name="chats">المحادثات</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="welcome">مرحبـــا</string>
+    <string name="train">قطار</string>
+    <string name="cars">سيارات</string>
+    <string name="Plan">طائرة</string>
+    <string name="forignTrips">الرحلات الدولية</string>
+    <string name="domisticFlight">الرحلات الداخلية</string>
+    <string name="addTrip">إضافة رحلة</string>
+    <string name="addShipment">إضافة شحنة</string>
+    <string name="chooseFlightMethod">أختر طريقة الرحلة</string>
+    <string name="alert">تنبيه !!</string>
+    <string name="completeData">يرجى استكمال الإجراءات الازمة لتفعيل \nخاصية إضافة الرحلات</string>
+    <string name="completeProcedures">استكمال الاجراءات</string>
+    <string name="departure_point">نقطة المغادرة</string>
+    <string name="arrivalPoint">نقطة الوصول</string>
+    <string name="departure_date">تاريخ المغادرة</string>
+    <string name="departure_time">وقت المغادرة</string>
+    <string name="arrival_date">تاريخ الوصول</string>
+    <string name="arrival_time">وقت الوصول</string>
+    <string name="kiloGram">كيلو جرام</string>
+    <string name="notes">الملاحظات</string>
+    <string name="createTrip">انشاء رحلة</string>
+    <string name="shipmentType">نوع الشحنة</string>
+    <string name="document">مستند</string>
+    <string name="packagee">طرد</string>
+    <string name="specified">مخصص</string>
+    <string name="shipmentWeight">وزن الشحنة</string>
+    <string name="deliveryTime">وقت التوصيل</string>
+    <string name="shipmentImage">صورة الشحنة</string>
+    <string name="recipientData">بيانات المستلم</string>
+    <string name="recipientName">اسم المستلم</string>
+    <string name="recipientMobile">رقم جوال المستلم</string>
+    <string name="createOrder">إنشاء طلب</string>
+    <string name="addOffer">إضافة عرض</string>
+    <string name="requiredPrice">السعر المطلوب</string>
+    <string name="sendOffer">إرسال العرض</string>
+    <string name="joinTrip">الانضمام للرحلة</string>
+    <string name="fullName">الإسم بالكامل</string>
+    <string name="email">البريد الإلكترونى</string>
+    <string name="phone">رقم الجوال</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirmPassword">تأكيد كلمة المرور</string>
+    <string name="register">انشاء حساب</string>
+    <string name="empty">فارغ</string>
+    <string name="passwordNotMAtches">كلمتا المرور غير متطابقتين</string>
+    <string name="userCreatedSuccessfully">تم انشاء الحساب بنجاح</string>
+    <string name="createAccount">انشاء حساب</string>
+    <string name="forgetPassword">هل نسيت كلمة المرور</string>
+    <string name="errorInEmailOrPass">خطا فى رقم الجوال او كلمة المرور</string>
+    <string name="tripIsAdded">تم إضافة الرحلة بنجاح</string>
+    <string name="selectPackageType">الرجاء اختيار نوع الشحنة</string>
+    <string name="orderAddedSuccessfully">تم اضافة الشحنة</string>
+    <string name="joinAsCarrier">الانضمام كناقل</string>
+    <string name="editImage">تعديل الصورة</string>
+    <string name="nationalId">رقم الهوية او الاقامة</string>
+    <string name="city">المدينة</string>
+    <string name="join">انضم الان</string>
+    <string name="pleaseAddImage">الرجاء اختيار الصورة اولا</string>
+    <string name="youJoinedAsTransporter">تم الالتحاق كناقل بنجاح</string>
+    <string name="Trip_type">نوع الرحلة</string>
+    <string name="joinedSuccess">تم إرسال طلبك بنجاح وسيتم ابلاغك من خلال التنبيهات في حال قبول المندوب</string>
+    <string name="errorPleaseTryAgain">خطأ الرجاء المحاولة مرة اخرى</string>
+    <string name="hour">ساعة</string>
+    <string name="meetingPoint">نقطة التقاء</string>
+    <string name="myOrders">طلباتي</string>
+    <string name="pending">قيد الإنتظار</string>
+    <string name="Active">نشطة</string>
+    <string name="Finished">منتهية</string>
+    <string name="myTrips">رحلاتي</string>
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+    <string name="aboutNa7ol">عن نحول</string>
+    <string name="terms">الشروط والاحكام</string>
+    <string name="tech">الدعم الفني</string>
+    <string name="message">الرسائل</string>
+    <string name="send">ارسال</string>
+    <string name="messageSent">تم ارسال الرساله بنجاح وسوف يتم الرد عليك فى اقرب وقت ممكن</string>
+    <string name="errorUrl">خطأ فى الموقع</string>
+    <string name="notificationSettings">اعدادات التنبيهات</string>
+    <string name="personalProfile">الملف الشخصي</string>
+    <string name="editPass">تغير كلمة المرور</string>
+    <string name="passwordChangedSuccessfully">تم تغير كلمة المرور بنجاح</string>
+    <string name="contract">العقد</string>
+    <string name="addShipmentCode">إضافة كود الشحنة</string>
+    <string name="enterCode">ادخل الكود هنا</string>
+    <string name="Copy_the_delivery_code">نسخ كود التسليم</string>
+    <string name="newNotifications">تنبيه جديد</string>
+    <string name="Deliverymechanism">الية التوصيل</string>
+    <string name="pleaseSelectPackageType">الرجاء اختيار نوع الشحنة</string>
+    <string name="travellerName">بيانات المسافر</string>
+    <string name="Conductivity_value">قيمة التوصيل</string>
+    <string name="cancelOrder">إلغاء الطلب</string>
+    <string name="editOrder">تعديل الطلب</string>
+    <string name="priceOffers">عروض الاسعار</string>
+    <string name="sendMessage">إرسال رسالة</string>
+    <string name="contractTerms">شروط العقد</string>
+    <string name="rateTraveller">تقييم المسافر</string>
+    <string name="priceOfferAccepted">تم قبول عرض السعر بنجاح</string>
+    <string name="attachImage">إرفاق صورة</string>
+    <string name="camera">الكاميرا</string>
+    <string name="gallery">المعرض</string>
+    <string name="loading">تحميل...</string>
+    <string name="messageHere">رسالتك هنا...</string>
+    <string name="acceptTerms">وافق على الشروط والأحكام</string>
+    <string name="contin">إستمرار</string>
+    <string name="importantCou">التنبيهات الهامة</string>
+    <string name="isuuingContract">اصدار العقد</string>
+    <string name="contractText">نص العقد</string>
+    <string name="contractSentSuccessfully">تم ارسال العقد بنجاح</string>
+    <string name="editTrip">تعديل الرحلة</string>
+    <string name="joinRequests">طلبات الإنضمام</string>
+    <string name="ClientData">بيانات المستلم</string>
+    <string name="youAcceptToDeliver">تم قبول توصيل الطلب</string>
+    <string name="shipmentEdited">تم تعديل الشحنة بنجاح</string>
+    <string name="cancelJoinRequests">الغاء طلب الانضمام</string>
+    <string name="editJoinRequest">تعديل طلبات الإنضمام</string>
+    <string name="youCanceledTripSuccessfully">تم الغاء الرحلة بنجاح</string>
+    <string name="writeComment">اكتب تعليق</string>
+    <string name="rateUser">شكرا لتسليم الشحنة يرجى تقييم العميل من طرفك</string>
+    <string name="thanks">لقد تم تقييم المستخدم بنجاح شكرا لوقتك</string>
+    <string name="deliverShipment">تسليم الشحنة</string>
+    <string name="cancelTrip">إلغاء الرحلة</string>
+    <string name="travellerRating">تقييم المسافر</string>
+    <string name="confirm">تأكيد</string>
+    <string name="chooseLanguage">اختيار اللغة</string>
+    <string name="attachment">ملحقات</string>
+    <string name="search">بحث</string>
+    <string name="searchFilter">تصفية البحث</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="charge">الرصيد</string>
+    <string name="totalCharge">اجمالي الرصيد</string>
+    <string name="applicationComm">عمولة  التطبيق</string>
+    <string name="remainingBalance">الرصيد المتبقي</string>
+    <string name="Balancewithdrawal">سحب الرصيد</string>
+    <string name="pay">دفع العمولة</string>
+    <string name="invalidEmail">خطأ فى البريد الالكترونى</string>
+    <string name="phoneError">رقم الجوال يجب ان يكون صحيحا اكبر من 10 رقم</string>
+    <string name="pleaseSelctTravelType">الرجاء اختيار طريقة الانتقال</string>
+    <string name="flightMethod">طريقة الرحلة</string>
+    <string name="downloadOurApp">يمكنك تحميل تطبيقنا من خلال</string>
+    <string name="editShipment">تعديل الشحنة</string>
+    <string name="edit">تعديل</string>
+    <string name="tripsEdited">تم تعديل الرحلة بنجاح</string>
+    <string name="rate">تقييم</string>
+    <string name="errorCode">"Error code "</string>
+    <string name="passwordReset">تم إسترجاع كلمة المرور بنجاح</string>
+    <string name="enterPhone">أدخل رقم الجوال لإرسال كود إسترجاع كلمة المرور </string>
+    <string name="sendCode">ارسال الكود</string>
+    <string name="enterPhoneCode">لقد أرسلنا لك رسالة قصيرة تحمل رمز التحقق على رقمك</string>
+    <string name="recoverPassword">استرجاع كلمة المرور</string>
+    <string name="enterNewPass">إعادة تعيين كلمة المرور</string>
+    <string name="newPassword">كلمة المرور الجديدة</string>
+    <string name="confirmNewPassword">تأكيد كلمة المرور الجديدة</string>
+    <string name="joinedSuccessToOrder">تم إرسال طلبك بنجاح وسيتم ابلاغك من خلال التنبيهات في حال قبول العميل</string>
+    <string name="yourPriceSent">تم استلام عرض السعر بنجاح وسيتم ابلاغك من خلال التنبيهات في حال قبول العميل</string>
+    <string name="pleaseEnterDate">الرجاء ادخال تاريخ المغادرة فى موعد قبل تاريخ الوصول</string>
+    <string name="save">حفظ</string>
+    <string name="profileUpdatedSuccessfully">تم تحديث ملفك الشخصي بنجاح</string>
+    <string name="orderSent">تم ارسال طلبك بنجاح</string>
+    <string name="dataWillBeReviewed">سيتم مراجعة البيانات الخاص بك من قبل الإدارة الخاصة بالتطبيق سيتم التواصل معك بحالة طلبك في اسرع وقت ممكن</string>
+    <string name="editPrice">تعديل السعر</string>
+    <string name="bidUpdated">تم تعديل عرض السعر بنجاح</string>
+    <string name="enterValidIdentityId">الرجاء ادخال رقم الهوية صحيح</string>
+    <string name="youShouldAddShipmentImage">الرجاء إضافة صورة الشحنه</string>
+    <string name="NotificationIsUpdated">تم تحديث اعدادات التنبيهات بنجاح</string>
+    <string name="identityImage">إرفاق بطاقة الهوية / الإقامة</string>
+    <string name="pleaseSelectDifferentCities">الرجاء اختيار مدن مختلفه</string>
+    <string name="youMustJoinAsCarrier">يجب الإنضمام كناقل</string>
+    <string name="codeCopiedSuccessfully">تم نسخ الكود بنجاح</string>
+    <string name="youCannotJoinToyourTrip">لا يمكنك طلب الانضمام لرحله خاصه بك </string>
+    <string name="youCannotAddOfferTo">لا يمكنك اضافة عرض سعر لطلبك</string>
+    <string name="enterCorrectCode">الرجاء ادخال الكود الصحيح</string>
+    <string name="messageText">نص الرسالة</string>
+    <string name="offerMustBeGreaterThanLimit">عرض التوصيل يجب ان يكون اكبر من الحد الادني للشحنه . الحد الادني هو :</string>
+    <string name="done">تم</string>
+    <string name="day">يوم</string>
+    <string name="acceptThisOrder">هل تريد قبول الطلب ؟</string>
+    <string name="accept">موافقة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="pleaseAcceptTerms">الرجاء الموافقه على الشروط والاحكام</string>
+    <string name="price">السعر</string>
+    <string name="joinRequestsCanceled">تم إلغاء طلب الانضمام</string>
+    <string name="all">الكل</string>
+    <string name="passwordMustBeGreaterThan">كلمة المرور يجب ان تكوناكبر من 6 حروف</string>
+    <string name="tripCanceledSuccessfully">تم إلغاء الرحلة بنجاح</string>
+    <string name="startWith">(يبدأ ب 966)</string>
+    <string name="noExistingCities">لا يوجد مدن مضافة</string>
+    <string name="nameMustNotHaveNumber">لا يجب ان يحتوى الاسم على ارقام</string>
+
+    <string name="nameMustBeGreaterThanThreeCha">يجب ان يكون الاسم اكبر من 3 حروف</string>
+    <string name="nameMustBeGreaterThanlessCha">يجب ان يكون الاسم اقل من 50 حرف</string>
+    <string name="nameMustNotStartWithSpace">لا يجب ان يبدأ الاسم بـ مسافه</string>
+    <string name="PhoneMustNotHaveSpaces">رقم الجوال يجب الا يحتوى على مسافات</string>
+    <string name="passwordMustNotContainSpace">كلمة المرور لا يجب ان تحتوى على مسافات</string>
+    <string name="passwordMustHaveUpperCase">كلمة المرور يجب ان يحتوى على حروف capital</string>
+    <string name="passwordMustHaveLowerCase">كلمةالمرور يجب ان يحتوى على حروف small</string>
+    <string name="pickPicture">التقاط صورة</string>
+    <string name="chooseFromG">اختيار من المعرض</string>
+    <string name="cancle">إلغاء</string>
+    <string name="addPhoto">لإضافة صوره</string>
+    <string name="internationalTrips">رحلات خارجيه</string>
+    <string name="nationalTrips">رحلات داخليه</string>
+    <string name="priceMustBeLessThanFourDigit">السعر يجب ان يكون اقل من 4 ارقام</string>
+    <string name="doYouWantToCancel">هل تريد الغاء الطلب ؟</string>
+    <string name="ok">نعم</string>
+    <string name="copyPrevented">النسخ واللصق ممنوع فى الاسم برجاء كتابة الاسم</string>
+    <string name="copyPreventedPassword">النسخ واللصق ممنوع فى كلمة المرور برجاء كتابة كلمة المرور</string>
+    <string name="lastName">الاسم الاخير</string>
+    <string name="firstName">الاسم الاول</string>
+    <string name="copyPreventedEmail">النسخ واللصق ممنوع فى البريد الالكترونى برجاء كتابة بريدك الالكترونى</string>
+    <string name="resendCode">إعادة ارسال الكود</string>
+    <string name="havnotCode">لم يصلك الكود ؟</string>
+    <string name="SetLocation">تحديد المكان</string>
+    <string name="payment">الدفع</string>
+    <string name="orderPrice">سعر توصيل الطلب</string>
+    <string name="enterCardDetails">Enter card details</string>
+    <string name="transfer">تحويل</string>
+    <string name="youMustSelectPaymentMeth">يجب اختيار طريقة الدفع</string>
+    <string name="transferSent">تم التحويل بنجاح</string>
+    <string name="accountActivated">تم تفعيل الحساب بنجاح</string>
+
+    <array name="menuDrawer">
+        <item>الملف الشخصي</item>
+        <item>الانضمام كناقل</item>
+        <item>إضافة رحلة او شحنة</item>
+        <item>طلباتي</item>
+        <item>الرصيد</item>
+        <item>الإعدادات</item>
+        <item>التنبيهات</item>
+        <item>مشاركة التطبيق</item>
+    </array>
+    <array name="menuDrawerTrans">
+        <item>الملف الشخصي</item>
+        <item>إضافة رحلة او شحنة</item>
+        <item>رحلاتي</item>
+        <item>طلباتي</item>
+        <item>الرصيد</item>
+        <item>الإعدادات</item>
+        <item>التنبيهات</item>
+        <item>مشاركة التطبيق</item>
+    </array>
+
+    <array name="tripType">
+        <item>رحلات داخليه</item>
+        <item>رحلات خارجيه</item>
+    </array>
+</resources>

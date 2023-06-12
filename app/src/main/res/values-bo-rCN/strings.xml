@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="passwordMustHaveUpperCase">Passwor must have uppercase letter</string>
+    <string name="passwordMustHaveLowerCase">Password must have lower case letter</string>
+    <string name="priceMustBeLessThanFourDigit">Price must be less than 4 digit</string>
+    <string name="lastName">Last name</string>
+    <string name="firstName">First name</string>
+    <string name="resendCode">Resend code</string>
+    <string name="SetLocation">Set location</string>
+    <string name="payment">Payment</string>
+    <string name="orderPrice">"Order delivery price "</string>
+    <string name="enterCardDetails">Enter card details</string>
+    <string name="transfer">Transfer</string>
+    <string name="youMustSelectPaymentMeth">يجب اختيار طريقة الدفع</string>
+    <string name="transferSent">Transfer sent successfully</string>
+
+</resources>

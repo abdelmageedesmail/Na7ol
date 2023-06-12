@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691441016138",
+    "firebase_url": "https://na7ool-ba6f4.firebaseio.com",
+    "project_id": "na7ool-ba6f4",
+    "storage_bucket": "na7ool-ba6f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691441016138:android:6e822bde712570136f35b3",
+        "android_client_info": {
+          "package_name": "com.art4muslim.na7ol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691441016138-5968ajva2u8oac14oeo03lagvmqtm757.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt7akVI28M2RvULgp9V9HgYsSYL5iGmVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691441016138-5968ajva2u8oac14oeo03lagvmqtm757.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
